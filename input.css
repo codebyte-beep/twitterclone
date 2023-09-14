@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.mmm{
+    margin-left: 46px;
+}
+.www{
+    width: 147px;
+}
+.rang{
+    background-color: #1d9bf0 ;
+}
+button.tmp:hover {
+    background-color: rgb(26, 140, 216); 
+}
+.twitter{
+    height: 720px;
+}
